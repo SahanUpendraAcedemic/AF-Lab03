@@ -1,0 +1,20 @@
+{
+  "name": "af-lab03",
+  "version": "1.0.0",
+  "description": "LAB 03 Introduction to NodeJS and GitHub flow",
+  "homepage": "https://github.com/SahanUpendraAcedemic/AF-Lab03#readme",
+  "bugs": {
+    "url": "https://github.com/SahanUpendraAcedemic/AF-Lab03/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SahanUpendraAcedemic/AF-Lab03.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
